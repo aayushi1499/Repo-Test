@@ -16,10 +16,10 @@ if (isset($_SESSION['USERNAMES'])){
 
     <style media="screen">
     body{
-      background: #000;
+      background: #0067;
     }
     </style>
-    <title>Grievance Redressal</title>
+    <title>Grievance Redressal System</title>
   </head>
   <body>
     <div class="container-fluid">
