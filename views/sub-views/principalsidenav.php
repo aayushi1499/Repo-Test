@@ -18,7 +18,7 @@ if (!isset($_SESSION['USERNAME'])){
      <link rel="stylesheet" href="../assests/css/style.css">
      <style media="screen">
      /* body{
-       background: #000;
+       background: #0067;
      } */
 
      /* The side navigation menu */
