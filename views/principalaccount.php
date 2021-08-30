@@ -29,7 +29,7 @@ if (!isset($_SESSION['ADMINNAME'])){
      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
      <link rel="stylesheet" href="../assests/css/style.css">
 
-     <title>Grievance Redressal System</title>
+     <title>Grievance Redressal</title>
    </head>
    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
      <span class="navbar-brand mb-0 h1">Grievance Redressal</span>
