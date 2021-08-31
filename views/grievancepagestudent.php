@@ -71,7 +71,7 @@ $sql = "SELECT * FROM grievancec WHERE id=$case_id";
 
              <div class="bx">
                <div class="shadow-lg p-3 mb-5 bg-white rounded">
-                 <h1 class="display-4">Grievance Redressal</h1>
+                 <h1 class="display-4">Grievance Redressal System</h1>
                   <h1 class="lead"> <mark>Student Details</mark></h1>
                   <div class="row">
                     <div class="col-lg-6 col-sm-12">
@@ -139,8 +139,8 @@ $sql = "SELECT * FROM grievancec WHERE id=$case_id";
 <script type="text/javascript">
     /* Set the width of the side navigation to 250px and the left margin of the page content to 250px */
         function openNav() {
-          document.getElementById("mySidenav").style.width = "150px";
-          document.getElementById("main").style.marginLeft = "250px";
+          document.getElementById("mySidenav").style.width = "200px";
+          document.getElementById("main").style.marginLeft = "270px";
         }
 
         /* Set the width of the side navigation to 0 and the left margin of the page content to 0 */
