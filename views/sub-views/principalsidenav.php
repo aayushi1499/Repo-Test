@@ -17,9 +17,9 @@ if (!isset($_SESSION['USERNAME'])){
      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
      <link rel="stylesheet" href="../assests/css/style.css">
      <style media="screen">
-     /* body{
+     body{
        background: #0067;
-     } */
+     }
 
      /* The side navigation menu */
 .sidenav {
