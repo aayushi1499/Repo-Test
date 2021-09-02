@@ -18,7 +18,7 @@ if (!isset($_SESSION['USERNAMEC'])){
      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
      <link rel="stylesheet" href="../assests/css/style.css">
 
-     <title>Grievance Redressal</title>
+     <title>Grievance Redressal System</title>
    </head>
    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
      <span class="navbar-brand mb-0 h1">Grievance Redressal</span>
@@ -147,7 +147,7 @@ if (!isset($_SESSION['USERNAMEC'])){
 <script type="text/javascript">
     /* Set the width of the side navigation to 250px and the left margin of the page content to 250px */
         function openNav() {
-          document.getElementById("mySidenav").style.width = "250px";
+          document.getElementById("mySidenav").style.width = "200px";
           document.getElementById("main").style.marginLeft = "250px";
         }
 
