@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="assests/css/style.css">
     <style media="screen">
     body{
-      background: #0978;
+      background: #0908;
     }
     </style>
     <title>Grievance Redressal System</title>
