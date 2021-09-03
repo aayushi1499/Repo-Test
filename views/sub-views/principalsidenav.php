@@ -40,7 +40,7 @@ if (!isset($_SESSION['USERNAME'])){
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: #818908;
   display: block;
   transition: 0.3s;
 }
@@ -75,11 +75,10 @@ if (!isset($_SESSION['USERNAME'])){
   height: 4px;
   background: #000;
   display: block;
-  margin-top: 4px;
 }
 
      </style>
-     <title>Grievance Redressal</title>
+     <title>Grievance Redressal System</title>
    </head>
    <body>
      <div class="container-fluid">
